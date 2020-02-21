@@ -4,4 +4,4 @@
 удалением пользователей, редактированием имени и фамилии пользователя,
 которые заносились, изменялись и удалялись в базе данных PostgreSQL.
 
-**Применяемые технологии:(bold)** Spring Boot, Hibernate, JPA, PostgreSQL, Tomcat, Git, применение шаблона MVC.
+**Применяемые технологии:(bold)** Spring Boot, Hibernate, JPA, PostgreSQL, Tomcat, Git, HTML применение шаблона MVC.
